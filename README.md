@@ -56,14 +56,5 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 The model successfully identifies potential machine failures with a high degree of confidence. The ROC-AUC score and other metrics confirm the model's strong performance, demonstrating its effectiveness as a tool for proactive maintenance and operational efficiency.
 
-## Author
 
-  - **[Your Name]** - [Your LinkedIn Profile Link]
-  - [Your GitHub Profile Link]
-
-## License
-
-This project is open-source and available under the MIT License.
-
-```
 ```
